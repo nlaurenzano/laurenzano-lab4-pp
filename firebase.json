@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "laurenzano-lab4-pp",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

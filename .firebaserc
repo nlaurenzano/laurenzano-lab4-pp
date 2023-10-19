@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "laurenzano-lab4-pp": {
+      "hosting": {
+        "laurenzano-lab4-pp": [
+          "laurenzano-lab4-pp"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "laurenzano-lab4-pp"
+  }
+}
